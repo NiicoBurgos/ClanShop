@@ -1,0 +1,3 @@
+Antes de ejecutar el programa, debe instalar el paquete que se encuentra en el archivo "email.rar". 
+
+Si tiene problemas con los .dat de artiuclos y usuarios reemplácelos con los .rar que se encuentran en la carpeta Datos.

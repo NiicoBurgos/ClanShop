@@ -1,0 +1,7 @@
+Id; Fecha; Cliente; Total; Vendedor; Descuento; Efectivo; Cambio; Estado
+10;27/11/2019;-Cliente Ocasional-;580;invitado;0;600;20;ACTIVO
+
+Numero de Linea; Articulo; Cantidad; Precio Unitario; Sub Total
+1;Cerealitas Pocket 105 Gr.;7;35;245
+2;Pindapoy 1L;5;60;300
+3;Baggio 200 Cc.;1;35;35

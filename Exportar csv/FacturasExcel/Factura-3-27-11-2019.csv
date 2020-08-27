@@ -1,0 +1,14 @@
+Id; Fecha; Cliente; Total; Vendedor; Descuento; Efectivo; Cambio; Estado
+3;27/11/2019;-Cliente Ocasional-;726;admin;726;1000;274;ACTIVO
+
+Numero de Linea; Articulo; Cantidad; Precio Unitario; Sub Total
+1;Yogurisimo Go 185 Gr. (bebible);13;45;585
+2;Coca Cola 600 Cc.;1;45;45
+3;Fuze Te 475 Cc.;5;55;275
+4;Citric 250 Cc.;7;42;294
+5;9 de Oro 220 Gr.;1;38;38
+6;Alfa. Pepitos 57 Gr.;1;55;55
+7;Caram. Stos. Lipo Sup. Acidos;1;10;10
+8;Caram. Stos. Flyn Paff;1;10;10
+9;Doris Corazoncitos;3;35;105
+10;Bc 200 Cc.;1;35;35

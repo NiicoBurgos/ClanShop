@@ -1,0 +1,8 @@
+Id; Fecha; Cliente; Total; Vendedor; Descuento; Efectivo; Cambio; Estado
+9;27/11/2019;-Cliente Ocasional-;580;admin3;580;590;10;ACTIVO
+
+Numero de Linea; Articulo; Cantidad; Precio Unitario; Sub Total
+1;Baggio 200 Cc.;1;35;35
+2;Coca Cola 600 Cc.;1;45;45
+3;Latte 250 Cc.;1;35;35
+4;Fuze Te 475 Cc.;19;55;1045

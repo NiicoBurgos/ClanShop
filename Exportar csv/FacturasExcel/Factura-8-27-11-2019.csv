@@ -1,0 +1,7 @@
+Id; Fecha; Cliente; Total; Vendedor; Descuento; Efectivo; Cambio; Estado
+8;27/11/2019;-Cliente Ocasional-;277;admin3;0;290;13;ACTIVO
+
+Numero de Linea; Articulo; Cantidad; Precio Unitario; Sub Total
+1;Amor Galletitas 112 Gr.;3;60;180
+2;Fuze Te 475 Cc.;1;55;55
+3;Citric 250 Cc.;1;42;42

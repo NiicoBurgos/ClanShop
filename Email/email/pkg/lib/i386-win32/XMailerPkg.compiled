@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\2.6.2\bin\i386-win32\fpc.exe" Date="1125670419"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -vewnhi -FuC:\lazarus\components\nuevos\email\src -FuC:\lazarus\components\nuevos\email\3rdparty\synapse\source\lib -FuC:\lazarus\components\nuevos\email\pkg\ -FUC:\lazarus\components\nuevos\email\pkg\lib\i386-win32\ -l xmailerpkg.pas"/>
+</CONFIG>

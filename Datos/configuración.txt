@@ -1,0 +1,2 @@
+importeMinimo=1000
+porcentajeDescuento=50

@@ -1,0 +1,9 @@
+Id; Fecha; Cliente; Total; Vendedor; Descuento; Efectivo; Cambio; Estado
+2;27/11/2019;-Cliente Ocasional-;2765;admin;2765;2800;35;ACTIVO
+
+Numero de Linea; Articulo; Cantidad; Precio Unitario; Sub Total
+1;Coca Cola 357 Cc.;100;45;4500
+2;Doble Cola 500 Cc.;2;40;80
+3;Yogurisimo Go 185 Gr. (bebible);16;45;720
+4;Coca Cola 600 Cc.;2;45;90
+5;Baggio 200 Cc.;4;35;140

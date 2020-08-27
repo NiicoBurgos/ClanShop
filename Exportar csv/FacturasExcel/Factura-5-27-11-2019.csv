@@ -1,0 +1,7 @@
+Id; Fecha; Cliente; Total; Vendedor; Descuento; Efectivo; Cambio; Estado
+5;27/11/2019;-Cliente Ocasional-;4552,5;LaMejor;4552,5;5000;447,5;ACTIVO
+
+Numero de Linea; Articulo; Cantidad; Precio Unitario; Sub Total
+1;Mana Rellenenas 165 Gr.;90;55;4950
+2;Alfa. Chcoco Arroz 26 Gr.;90;45;4050
+3;Baggio 200 Cc.;3;35;105

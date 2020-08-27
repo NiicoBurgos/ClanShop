@@ -1,0 +1,184 @@
+object frmModificar: TfrmModificar
+  Left = 1024
+  Height = 341
+  Top = 136
+  Width = 400
+  Caption = 'Cambiar Tamaño:'
+  ClientHeight = 341
+  ClientWidth = 400
+  DesignTimePPI = 120
+  Position = poDesktopCenter
+  LCLVersion = '2.0.4.0'
+  object edtId: TEdit
+    Left = 170
+    Height = 28
+    Top = 20
+    Width = 174
+    Enabled = False
+    ParentFont = False
+    TabOrder = 0
+  end
+  object edtCodigo: TEdit
+    Left = 170
+    Height = 28
+    Top = 62
+    Width = 174
+    Enabled = False
+    NumbersOnly = True
+    ParentFont = False
+    TabOrder = 1
+  end
+  object edtDescripcion: TEdit
+    Left = 170
+    Height = 28
+    Top = 110
+    Width = 174
+    Enabled = False
+    ParentFont = False
+    TabOrder = 2
+  end
+  object edtCantidad: TEdit
+    Left = 170
+    Height = 28
+    Top = 154
+    Width = 174
+    ParentFont = False
+    TabOrder = 3
+  end
+  object edtPrecioUnit: TEdit
+    Left = 170
+    Height = 28
+    Top = 196
+    Width = 174
+    Enabled = False
+    NumbersOnly = True
+    ParentFont = False
+    TabOrder = 4
+  end
+  object lblId: TLabel
+    Left = 130
+    Height = 22
+    Top = 28
+    Width = 26
+    Caption = 'ID:'
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clBlack
+    Font.Height = -19
+    Font.Name = 'Times New Roman'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+  object lblCodigo: TLabel
+    Left = 95
+    Height = 22
+    Top = 70
+    Width = 64
+    Caption = 'Codigo:'
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clBlack
+    Font.Height = -19
+    Font.Name = 'Times New Roman'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+  object lblDescripcion: TLabel
+    Left = 59
+    Height = 22
+    Top = 116
+    Width = 102
+    Caption = 'Descripcion:'
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clBlack
+    Font.Height = -19
+    Font.Name = 'Times New Roman'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+  object lblPrecioUnit: TLabel
+    Left = 30
+    Height = 22
+    Top = 204
+    Width = 130
+    Caption = 'Precio Unitario:'
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clBlack
+    Font.Height = -19
+    Font.Name = 'Times New Roman'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+  object lblCantidad: TLabel
+    Left = 84
+    Height = 22
+    Top = 160
+    Width = 80
+    Caption = 'Cantidad:'
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clBlack
+    Font.Height = -19
+    Font.Name = 'Times New Roman'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+  object BitBtnVolver: TBitBtn
+    Left = 18
+    Height = 36
+    Top = 290
+    Width = 95
+    Caption = 'Volver'
+    OnClick = BitBtnVolverClick
+    ParentFont = False
+    TabOrder = 5
+  end
+  object BitBtnCambiar: TBitBtn
+    Left = 291
+    Height = 36
+    Top = 290
+    Width = 95
+    Caption = 'Cambiar'
+    OnClick = BitBtnCambiarClick
+    ParentFont = False
+    TabOrder = 6
+  end
+  object lblImporte: TLabel
+    Left = 88
+    Height = 22
+    Top = 248
+    Width = 70
+    Caption = 'Importe:'
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clBlack
+    Font.Height = -19
+    Font.Name = 'Times New Roman'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+  object edtImporte: TEdit
+    Left = 170
+    Height = 28
+    Top = 240
+    Width = 174
+    Enabled = False
+    NumbersOnly = True
+    ParentFont = False
+    TabOrder = 7
+  end
+end

@@ -1,0 +1,8 @@
+Id; Fecha; Cliente; Total; Vendedor; Descuento; Efectivo; Cambio; Estado
+4;27/11/2019;-Cliente Ocasional-;410;admin;0;500;90;ACTIVO
+
+Numero de Linea; Articulo; Cantidad; Precio Unitario; Sub Total
+1;Alfa. Sple. Guaymallen;1;20;20
+2;Ser 500 Cc.;5;55;275
+3;Alfa. Sple. Fulbito;1;15;15
+4;Ser c/Cereal 165 Gr.;2;50;100

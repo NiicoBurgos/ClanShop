@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="27">
+      <Unit0>
+        <Filename Value="ProyectoFinal.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UsageCount Value="20"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="uLogin.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmLogin"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="44" Y="8"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="GestionUsuarios\uusuarios.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmUsuarios"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uUsuarios"/>
+        <UsageCount Value="20"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="uMenu.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmMenu"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UsageCount Value="20"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="GestionArticulos\uarticulos.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmArticulos"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uArticulos"/>
+        <UsageCount Value="20"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="GestionVentas\uventas.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmConsulta"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uVentas"/>
+        <UsageCount Value="20"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="uestructura.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uEstructura"/>
+        <UsageCount Value="20"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="GestionArticulos\udaoarticulos.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uDAOArticulos"/>
+        <UsageCount Value="20"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="GestionUsuarios\udaousuarios.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uDAOUsuarios"/>
+        <UsageCount Value="20"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="GestionUsuarios\frmaom.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="formAOM"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="frmAOM"/>
+        <UsageCount Value="20"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="GestionArticulos\ucrudarticulos.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmCrudArticulos"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uCrudArticulos"/>
+        <UsageCount Value="20"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="utiles.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UsageCount Value="20"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="HistorialAccesos\uhistorialaccesos.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmAccesos"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uHistorialAccesos"/>
+        <UsageCount Value="20"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="HistorialAccesos\udaohistorialaccesos.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uDAOhistorialaccesos"/>
+        <UsageCount Value="20"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="GestionVentas\udaoventas.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uDAOVentas"/>
+        <UsageCount Value="20"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="Consultas de Ventas\uconsultaventas.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmVentasRealizadas"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uConsultaVentas"/>
+        <UsageCount Value="20"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="Consultas de Ventas\udetallesventa.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmDetallesFactura"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uDetallesVenta"/>
+        <UsageCount Value="20"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="GestionVentas\umodificar.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmModificar"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uModificar"/>
+        <UsageCount Value="20"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="GestionVentas\udescuento.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmDescuento"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uDescuento"/>
+        <UsageCount Value="20"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="GestionVentas\udaodescuento.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uDAOdescuento"/>
+        <UsageCount Value="20"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="Exportar csv\udaoexcel.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uDAOExcel"/>
+        <UsageCount Value="20"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="GestionArticulos\frmtopventas.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmProductosMasVendidos"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="frmTopVentas"/>
+        <UsageCount Value="20"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="GestionArticulos\uactualizarp.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmActualizar"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uActualizarP"/>
+        <UsageCount Value="20"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="Consultas de Ventas\frmvendedorestop.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmMejoresVendedores"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="frmVendedoresTop"/>
+        <UsageCount Value="20"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="SolicitarStock\udaosolicitar.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uDAOSolicitar"/>
+        <UsageCount Value="20"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="Email\uenviarmail.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FormEmail"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uEnviarMail"/>
+        <UsageCount Value="20"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="uacerca.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmAcerca"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uAcerca"/>
+        <UsageCount Value="20"/>
+      </Unit26>
+    </Units>
+    <JumpHistory HistoryIndex="-1"/>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

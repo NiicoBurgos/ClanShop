@@ -1,0 +1,5 @@
+Id; Fecha; Cliente; Total; Vendedor; Descuento; Efectivo; Cambio; Estado
+1;27/11/2019;-Cliente Ocasional-;45;admin;0;70;25;ACTIVO
+
+Numero de Linea; Articulo; Cantidad; Precio Unitario; Sub Total
+1;Coca Cola 600 Cc.;1;45;45

@@ -1,0 +1,6 @@
+Id; Fecha; Cliente; Total; Vendedor; Descuento; Efectivo; Cambio; Estado
+6;27/11/2019;-Cliente Ocasional-;196;LaMejor;0;200;4;ACTIVO
+
+Numero de Linea; Articulo; Cantidad; Precio Unitario; Sub Total
+1;Citric 250 Cc.;3;42;126
+2;Jorgito en Tubo;2;35;70

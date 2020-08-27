@@ -1,0 +1,5 @@
+Id; Fecha; Cliente; Total; Vendedor; Descuento; Efectivo; Cambio; Estado
+11;27/11/2019;-Cliente Ocasional-;495;admin;0;500;5;ACTIVO
+
+Numero de Linea; Articulo; Cantidad; Precio Unitario; Sub Total
+1;Fuze Te 475 Cc.;9;55;495
